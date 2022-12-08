@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @danewbtin
 - 👀 I’m interested in Front End Web Development and Ethical Hacking.
-- 🌱 I’m currently learning BCA (Bachelor of Computer Applications.
-- 💞️ I’m looking to collaborate on nothing yet.
+- 🌱 I’m currently pursuing BCA (Bachelor of Computer Applications)
 - 📫 How to reach me - danewbtin@gmail.com
 
 <!---
